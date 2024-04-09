@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RemoteDataSource.props" />
+</Project>

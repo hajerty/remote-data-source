@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "U56WWdRIFMJWPnvZnnIUvtOvhDb7K8Hu2kN+mPDm7Zk=",
+  "Source": "RemoteDataSource",
+  "BasePath": "_content/RemoteDataSource",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
